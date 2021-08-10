@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sales-aegon-premium-holiday-service
+  cloud:
+    config:
+      uri: ************************
